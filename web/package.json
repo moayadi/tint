@@ -22,7 +22,7 @@
     "flexbox-react": "^4.4.0",
     "webpack": "^4.41.0",
     "webpack-cli": "^3.3.9",
-    "webpack-dev-server": "^3.8.1",
+    "webpack-dev-server": "^5.2.0",
     "webpack-merge": "^4.2.2",
     "axios": "^0.19.0",
     "chart.js": "^2.9.3",
